@@ -13,4 +13,4 @@
 
 :eyes:
 
-<a href="https://giphy.com/">![typing](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)</a>
+<a href="https://giphy.com/" target="blank">![typing](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)</a>
