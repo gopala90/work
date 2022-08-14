@@ -12,11 +12,3 @@
 ```rgb(1,3,4)```
 
 :eyes:
-:-1:
-:fish:
-
-:fire
-
->codee
-
-```learn```
