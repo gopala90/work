@@ -14,3 +14,5 @@
 :eyes:
 :-1:
 :fish:
+
+:fire
