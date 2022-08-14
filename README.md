@@ -12,3 +12,5 @@
 ```rgb(1,3,4)```
 
 :eyes:
+
+![typing](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
